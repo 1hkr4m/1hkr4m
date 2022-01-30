@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[LinkedIn](https://www.linkedin.com/in/ihorkram/)
+[My LeetCode](https://leetcode.com/ihor_kram/)
+[Telegram](https://t.me/igorkrum)
+
 <!--
 **1hkr4m/1hkr4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
