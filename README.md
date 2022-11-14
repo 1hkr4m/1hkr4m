@@ -4,6 +4,7 @@
 - [My LeetCode](https://leetcode.com/ihor_kram/)
 - [Telegram](https://t.me/ihor_kram)
 - [Credly](https://www.credly.com/users/ihor-kram/badges)
+- [My site](https://ihorkram.com)
 <!--
 **1hkr4m/1hkr4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
