@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=1hkr4m&label=Views+Since+Jul2023&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=1hkr4m&label=Views+Since+July+2023&color=brightgreen)
