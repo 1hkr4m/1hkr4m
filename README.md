@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-💻 🎯 Core Stack: Kubernetes, Golang, Linux, GCP, Ansible. Cloud Native, Platform Automation, Reliability.
+💻 🎯 Core Stack: Kubernetes, Python, Linux, AWS, Azure, GCP, Ansible, Terraform.
 
-- ✉️ 💾 [LinkedIn](https://www.linkedin.com/in/ihorkram/)
+- [LinkedIn](https://www.linkedin.com/in/ihorkram/)
 - [My LeetCode](https://leetcode.com/ihor_kram/)
 - [Telegram](https://t.me/ihor_kram)
 - [Credly](https://www.credly.com/users/ihor-kram/badges)
