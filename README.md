@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 🎯 Core Stack: Kubernetes, Python, Linux, AWS, Azure, GCP, Ansible, Terraform.
+💻 🎯 Core Stack: Kubernetes, Python, Linux, AWS, Ansible, Terraform.
 
 - [LinkedIn](https://www.linkedin.com/in/ihorkram/)
 - [My LeetCode](https://leetcode.com/ihor_kram/)
