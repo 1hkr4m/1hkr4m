@@ -4,7 +4,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/ihorkram/)
 - [Credly](https://www.credly.com/users/ihor-kram/badges)
-- [My site](http://ihorkram.com)
+- [My YouTube](https://www.youtube.com/@kramdevops)_
 <!--
 **1hkr4m/1hkr4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
