@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My Certification: 
+My Certifications: 
 - [x] 98-365: Windows Server Administration Fundamentals
 - [x] 98-366: Networking Fundamentals
 - [x] 98-367: Security Fundamentals
