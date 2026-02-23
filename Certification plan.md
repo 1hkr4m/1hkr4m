@@ -4,7 +4,7 @@
 - [x] LPI Linux Essentials (010-160)
 - [ ] AZ-900: Microsoft Azure Fundamentals
 - [ ] AWS Certified Cloud Practitioner
-- [ ] AWS Certified Solutions Architect Associate 
+- [x] AWS Certified Solutions Architect Associate 
 - [ ] AWS Certified Developer Associate
 - [ ] AWS Certified SysOps Administrator 
 - [ ] 200-301 Cisco CCNA
