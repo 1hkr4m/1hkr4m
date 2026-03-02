@@ -25,7 +25,7 @@ My Certifications:
 - [x] 98-367: Security Fundamentals
 - [x] LPI Linux Essentials (010-160)
 - [x] AZ-900: Microsoft Azure Fundamentals
-- [ ] AWS Certified Cloud Practitioner
+- [x] AWS Certified Cloud Practitioner
 - [x] AWS Certified Solutions Architect Associate 
 - [ ] AWS Certified Developer Associate
 - [ ] AWS Certified SysOps Administrator 
